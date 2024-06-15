@@ -1,0 +1,13 @@
+Built-in Modules
+1. os : is a built-in module which provides many useful properties and method for interacting with oparating system as well as the server.
+2. path
+3. fs : sync(blocking) and async(non-blocking). the sync works we you provide a callback
+4. http
+
+{reading from the database and writing from the database}
+
+we need package.json because we need to provide info abt our project and
+
+dependencies is a package.json tool that stores our packages which our project is using. some dependencies can have more packages
+
+The difference between node packages is the external packageshave to be install in other for it to work, so if we dont install the dependencies node wont be able to find it
